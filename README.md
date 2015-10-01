@@ -2,9 +2,10 @@
 
 This repository contains a project I made in my Algorithms and Data Structures course. 
 
-The primary goal is to find the most connected actor among 500,000+ from the Internet Movie Database. A connection between actors is undirected and defined as acting in at least one movie together.
+The primary goal is to find the most connected actor among 500,000+ from the Internet Movie Database (IMDb). A connection between actors is undirected and defined as acting in at least one movie together.
 
-The file is massive so it can be obtained on their webpage.
+Data was used with permission and can be requested from the IMDb.
+
 
 CODE SUMMARY:
 
